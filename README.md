@@ -7,7 +7,7 @@ Industrial Engineering project for analyzing university building capacity and oc
 This project presents a comprehensive study on the operational efficiency and occupancy rates of **University of Tabuk** facilities. By integrating **Industrial Engineering** methodologies with data analytics, I developed a framework to identify peak demand periods and optimize room utilization to solve parking and facility congestion.
 
 ## 📊 Project Dashboard
-![Power BI Visual](Power20%Bi20%Visual.png)
+![Power BI Visual](Dashboard.png)
 *An interactive dashboard visualizing occupancy rates, peak hours, and building efficiency across the campus.*
 
 ## 🛠️ Tools & Methodology
@@ -17,8 +17,8 @@ This project presents a comprehensive study on the operational efficiency and oc
 - **Problem Solving:** Focused on identifying "Waste" in facility usage to provide actionable solutions for parking and building management.
 
 ## 📄 Project Assets
-- **[Full Research Report (PDF)](SDP 2 Parking at tabuk university problems and solutions_Section 2839.docx):** Detailed methodology, IE-based analysis, and final strategic recommendations.
-- **[Analysis Script (R)](analysis_script_R.R):** The core logic and automated cleaning pipeline built with R.
+- **[Full Research Report (PDF)](AnalysisReport.pdf):** Detailed methodology, IE-based analysis, and final strategic recommendations.
+- **[Analysis Script (R)](analysisR.R):** The core logic and automated cleaning pipeline built with R.
 
 ---
 **Author:** Saad Ali - Industrial Engineering Graduate (1st in Class | GPA: 4.82/5)
