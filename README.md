@@ -17,7 +17,7 @@ This project presents a comprehensive study on the operational efficiency and oc
 - **Problem Solving:** Focused on identifying "Waste" in facility usage to provide actionable solutions for parking and building management.
 
 ## 📄 Project Assets
-- **[Full Research Report (PDF)](SDP%202%20parking%20at%20tabuk%20University%20problems%20and%20solutions.pdf):** Detailed methodology, IE-based analysis, and final strategic recommendations.
+- **[Full Research Report (PDF)](SDP 2 Parking at tabuk university problems and solutions_Section 2839.docx):** Detailed methodology, IE-based analysis, and final strategic recommendations.
 - **[Analysis Script (R)](analysis_script_R.R):** The core logic and automated cleaning pipeline built with R.
 
 ---
