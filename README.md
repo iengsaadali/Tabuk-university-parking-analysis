@@ -7,7 +7,7 @@ Industrial Engineering project for analyzing university building capacity and oc
 This project presents a comprehensive study on the operational efficiency and occupancy rates of **University of Tabuk** facilities. By integrating **Industrial Engineering** methodologies with data analytics, I developed a framework to identify peak demand periods and optimize room utilization to solve parking and facility congestion.
 
 ## 📊 Project Dashboard
-![Power BI Visual](power%20bi%20visual.png)
+![Power BI Visual](Power20%Bi20%Visual.png)
 *An interactive dashboard visualizing occupancy rates, peak hours, and building efficiency across the campus.*
 
 ## 🛠️ Tools & Methodology
